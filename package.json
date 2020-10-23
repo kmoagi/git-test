@@ -1,0 +1,24 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "test dictory\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dre\u001b[C\u001b[C\u001b[Dctory\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001be\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cfor git and node",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmoagi/git-test.git"
+  },
+  "author": "kabelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmoagi/git-test/issues"
+  },
+  "homepage": "https://github.com/kmoagi/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
